@@ -1,0 +1,32 @@
+body{
+    background-image: url(../imagens/fundo.jpg);
+    background-repeat: repeat-y; 
+    background-size: cover; 
+    background-position: top; 
+    width: 100%;
+    height: 100vh;
+    
+}
+
+
+label {
+    font-size: 02rem;
+    font-weight: bold;
+    color: #5061BF;;
+}
+
+.fundo{
+    background-color:rgba(255, 255, 255, 0.7);
+    height: 45vh;
+    z-index: 1;
+}
+
+button {
+    background-color: #F294C0;
+    color: white;
+    border: none;
+}
+
+.lista {
+    max-height: 95vh;
+}
